@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nnoso
+- 👋 Hi, I’m @Nnoso Monica Mokhethi 
 - 👀 I’m interested in software development (Flutter, Android studio, Firebase) and web development 
 - 🌱 I’m currently learning Flutter, Firebase, API, Git
 - 💞️ I’m looking to collaborate on ...
